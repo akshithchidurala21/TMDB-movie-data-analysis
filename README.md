@@ -1,21 +1,21 @@
-# IMDB-movie-data-analysis
-Data analysis project based on IMDb movies — includes data scraping, cleaning, and visualization of ratings, vote_count, and popularity trends using Python.
+# TMDB-movie-data-analysis
+Data analysis project based on TMDb movies — includes data scraping, cleaning, and visualization of ratings, vote_count, and popularity trends using Python.
 
 ###  Project Overview
 
-The **IMDb Movie Data Analysis** project focuses on exploring and understanding trends in **movie ratings, vote count, and popularity** using data collected through the IMDb API. The dataset was cleaned, analyzed, and visualized using Python and Excel to uncover insights about audience preferences and factors that influence a movie’s success.
+The **TMDb Movie Data Analysis** project focuses on exploring and understanding trends in **movie ratings, vote count, and popularity** using data collected through the TMDb API. The dataset was cleaned, analyzed, and visualized using Python and Excel to uncover insights about audience preferences and factors that influence a movie’s success.
 
 ---
 
 ## About the Project
 
-This project analyzes IMDb movie data to study how ratings, votes, and popularity are related across different years and genres. Instead of traditional web scraping, an **API key** was used to fetch the movie data directly, ensuring reliable and faster collection. The data was cleaned and processed using Python libraries, and several visualizations were created to understand audience engagement and rating patterns.
+This project analyzes TMDb movie data to study how ratings, votes, and popularity are related across different years and genres. Instead of traditional web scraping, an **API key** was used to fetch the movie data directly, ensuring reliable and faster collection. The data was cleaned and processed using Python libraries, and several visualizations were created to understand audience engagement and rating patterns.
 
 ---
 
 ##  Objectives
 
-* Collect movie data from IMDb using an API key.
+* Collect movie data from TMDb using an API key.
 * Clean and prepare data using Pandas.
 * Study relationships between **ratings, vote count, and popularity**.
 * Visualize the data to identify patterns and correlations.
@@ -48,8 +48,8 @@ This project analyzes IMDb movie data to study how ratings, votes, and popularit
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/IMDB-movie-data-analysis.git
-   cd IMDB-movie-data-analysis
+   git clone https://github.com/<your-username>/TMDb-movie-data-analysis.git
+   cd TMDb-movie-data-analysis
    ```
 
 2. **Install required libraries:**
@@ -61,7 +61,7 @@ This project analyzes IMDb movie data to study how ratings, votes, and popularit
 3. **Open the notebook:**
 
    ```bash
-   jupyter notebook imdb_analysis.ipynb
+   jupyter notebook TMDb_analysis.ipynb
    ```
 
 4. **Run all cells** to perform the full analysis and generate visualizations.
@@ -90,7 +90,7 @@ This project analyzes IMDb movie data to study how ratings, votes, and popularit
 
 ##  Project Details
 
-**Project Title:** IMDb Movie Data Analysis
+**Project Title:** TMDb Movie Data Analysis
 **Developer:** Akshith Chidurala
 **Institution:** Innomatics Reasearch labs
 
